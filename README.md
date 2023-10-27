@@ -31,3 +31,6 @@ When the game ends, you can restart it by clicking the "Restart" button.
 Visual Studio or any C# development environment that supports Windows Forms applications.
 ## Credits
 The game is inspired by the popular Flappy Bird game created by Dong Nguyen.
+
+## Collaborator
+This project was a collaboration with <a href="https://github.com/BelmaKorlat"> Belma Korlat. </a>
