@@ -36,4 +36,4 @@ The game is inspired by the popular Flappy Bird game created by Dong Nguyen.
 This project was a collaboration with <a href="https://github.com/BelmaKorlat"> Belma Korlat. </a>
 
 ## Download the game
-<a href="/flappy.rar" download>Click here to download the game</a>
+Click <a href="/flappy.rar" download>here</a> to download the game.
