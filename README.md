@@ -1,4 +1,4 @@
-# Flappy Bird Game in C# Win Forms
+# Flappy Bird Game in C#
 This repository contains a simple implementation of the classic Flappy Bird game using C# Windows Forms. The game utilizes a timer, keydown functions, and pictureboxes to create a fun and interactive gaming experience. The objective of the game is to control a bird and navigate it through a series of pipes. The game ends when the bird collides with a pipe.
 
 ## Screenshots
